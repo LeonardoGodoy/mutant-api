@@ -1,0 +1,2 @@
+module MutantHelper
+end
